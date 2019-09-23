@@ -130,7 +130,7 @@ else {
     document.write(`
         <div class="df-btn df-closed" onclick="dfToggle()">
             <div class="df-btn-text">${config.openText || 'Chat'}</div>
-            <iframe class="df-btn-content" src="https://${config.project}.ui.dialogflow.cloud.ushakov.co"></iframe>
+            <iframe class="df-btn-content" src="http://kmichael08.github.io/"></iframe>
         </div>
     `)
 
