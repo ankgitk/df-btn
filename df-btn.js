@@ -130,7 +130,7 @@ else {
     document.write(`
         <div class="df-btn df-closed" onclick="dfToggle()">
             <div class="df-btn-text">${config.openText || 'Chat'}</div>
-            <iframe class="df-btn-content" src="https://x9hv2.csb.app/"></iframe>
+            <iframe class="df-btn-content" src="https://ankgitk.github.io/iBOT-v1.0/"></iframe>
         </div>
     `)
 
