@@ -68,8 +68,8 @@ else {
     .df-btn-content {
         display: block;
         border: 0;
-        height: ${config.height || '500px'};
-        width: ${config.width || '320px'};
+        height: ${config.height || '700px'};
+        width: ${config.width || '380px'};
         transition: all .25s ease;
         float: right;
         opacity: 1
