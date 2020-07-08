@@ -97,7 +97,7 @@ else {
 
         .df-btn:not(.df-closed) > .df-btn-content {
             width: 100vw;
-            height: calc(80vh - 56px);
+            height: calc(88vh - 56px);
             padding-bottom: 0px
         }
 
